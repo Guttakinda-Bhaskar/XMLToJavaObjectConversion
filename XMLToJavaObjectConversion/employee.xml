@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <Employee-Id>10110050</Employee-Id>
+    <Employee-Name>Bhaskar</Employee-Name>
+    <Employee-Salary>10003.0</Employee-Salary>
+    <Employee-Address>
+        <House-No>9</House-No>
+        <House-Address>GuttakindaPalli</House-Address>
+        <House-Locality>MPL</House-Locality>
+        <Have-You-Aadhar-Card>true</Have-You-Aadhar-Card>
+    </Employee-Address>
+    <Projects>
+        <Projects-Names>Onpassive</Projects-Names>
+        <Projects-Names>Gofounders</Projects-Names>
+        <Projects-Names>SupportAdmin</Projects-Names>
+    </Projects>
+    <versions>
+        <entry>
+            <key>Onpassive</key>
+            <value>2</value>
+        </entry>
+        <entry>
+            <key>Gofounders</key>
+            <value>3</value>
+        </entry>
+        <entry>
+            <key>SupportAdmin</key>
+            <value>1</value>
+        </entry>
+    </versions>
+</employee>
